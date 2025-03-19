@@ -1,4 +1,4 @@
-# Hi there, I'm Youssef mahi 👋
+# Hi there, I'm Youssef Mahi 👋
 
 I'm a passionate **Web Developer** with expertise in building modern, responsive, and user-friendly web applications. I specialize in both **Frontend** and **Backend Development**.
 
@@ -11,6 +11,7 @@ I'm a passionate **Web Developer** with expertise in building modern, responsive
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Backend Development
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -27,7 +28,6 @@ I'm a passionate **Web Developer** with expertise in building modern, responsive
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-
 
 ## 🎯 Currently Learning
 
@@ -46,4 +46,5 @@ I'm always open to collaborating on exciting projects or discussing web developm
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youssefmahi722@gmail.com)
 
 ---
-🔥 Thank you for visiting my profile.
+
+🔥 Thank you for visiting my profile!
